@@ -15,8 +15,8 @@ Overwolf enables developers to build lightweight in-game applications and overla
 
 ## Timestamps
 
-- **Created:** 2025-02-08 
-- **Modified:** 2026-03-16 
+- **Created:** 2025-02-08
+- **Modified:** 2026-04-28
 
 ## APIs
 
