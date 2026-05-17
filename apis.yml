@@ -33,14 +33,14 @@ apis:
         url: https://dev.overwolf.com/ow-native/getting-started/overview
       - type: Reference
         url: https://dev.overwolf.com/ow-native/reference/overwolf-api-overview
-      - type: Getting Started
+      - type: GettingStarted
         url: https://dev.overwolf.com/ow-native/getting-started/overview
 common:
   - type: Portal
     url: https://dev.overwolf.com/
   - type: Documentation
     url: https://dev.overwolf.com/
-  - type: Sign Up
+  - type: SignUp
     url: https://www.overwolf.com/creators/#download-odk
   - type: Website
     url: https://www.overwolf.com/
@@ -48,9 +48,9 @@ common:
     url: https://medium.com/overwolf
   - type: Support
     url: https://support.overwolf.com/en/
-  - type: Terms of Service
+  - type: TermsOfService
     url: https://www.overwolf.com/legal/developers/
-  - type: Privacy Policy
+  - type: PrivacyPolicy
     url: https://www.overwolf.com/legal/privacy/
 maintainers:
   - FN: Kin Lane
