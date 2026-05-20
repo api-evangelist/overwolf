@@ -36,6 +36,8 @@ apis:
       - type: GettingStarted
         url: https://dev.overwolf.com/ow-native/getting-started/overview
 common:
+  - type: GitHubOrganization
+    url: https://github.com/overwolf
   - type: Portal
     url: https://dev.overwolf.com/
   - type: Documentation
