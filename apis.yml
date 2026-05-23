@@ -48,6 +48,9 @@ common:
     url: https://www.overwolf.com/
   - type: Blog
     url: https://medium.com/overwolf
+  - url: https://medium.com/feed/overwolf
+    type: BlogRSS
+    description: Discovered RSS/Atom feed for https://medium.com/overwolf
   - type: Support
     url: https://support.overwolf.com/en/
   - type: TermsOfService
