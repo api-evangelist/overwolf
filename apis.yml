@@ -42,7 +42,7 @@ common:
     url: https://dev.overwolf.com/
   - type: Documentation
     url: https://dev.overwolf.com/
-  - type: SignUp
+  - type: Signup
     url: https://www.overwolf.com/creators/#download-odk
   - type: Website
     url: https://www.overwolf.com/
