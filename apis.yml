@@ -36,6 +36,8 @@ apis:
       - type: GettingStarted
         url: https://dev.overwolf.com/ow-native/getting-started/overview
 common:
+  - type: DomainSecurity
+    url: security/overwolf-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/overwolf
   - type: Portal
