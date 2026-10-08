@@ -59,6 +59,12 @@ apis:
       - type: GettingStarted
         url: https://dev.overwolf.com/ow-native/getting-started/overview
 common:
+  - type: Plans
+    url: plans/overwolf-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/overwolf-rate-limits.yml
+  - type: FinOps
+    url: finops/overwolf-finops.yml
   - type: DomainSecurity
     url: security/overwolf-domain-security.yml
   - type: GitHubOrganization
